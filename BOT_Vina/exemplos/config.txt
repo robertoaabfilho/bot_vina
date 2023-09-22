@@ -1,0 +1,18 @@
+receptor = prot_1aap_APP(A).pdbqt
+ligand = NuBBE_1797.pdbqt
+
+out = resultado.pdbqt 
+
+center_x = 16.600300
+center_y = 20.874187
+center_z = 46.030106
+
+size_x = 56
+size_y = 104
+size_z = 68
+ 
+exhaustiveness = 24 
+
+num_modes = 40 
+
+energy_range = 20
